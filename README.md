@@ -1,2 +1,25 @@
-# Hospital-record-system
-A menu-driven Patient Record Management System developed in Python using lists, loops, conditional statements, and functions-based logic. The project supports CRUD operations for patient records and includes fee management features.
+# Patient Record Management System
+
+A console-based Patient Record Management System built in Python to practice programming fundamentals and data handling logic.
+
+## Features
+- Add patient records
+- Search patient records
+- Display all records
+- Edit existing records
+- Delete records
+- Manage fee payments
+- Menu-driven interface
+
+## Concepts Used
+- Lists
+- Nested Lists
+- Loops
+- Conditional Statements
+- Input Handling
+- CRUD Operations
+- Search Logic
+- Record Management
+
+## Technologies
+- Python
